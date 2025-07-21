@@ -1,7 +1,9 @@
-# 💫Hi,👋 
+# 
+<img src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif"/>
+💫Hi,👋 
  I'm Sonu Kumar<br>I'm a passionate Full Stack Developer and an MCA student at NIT Kurukshetra, with a strong foundation in Mathematics and a keen interest in building impactful and scalable web applications. I enjoy solving real-world problems through code and constantly pushing myself to learn new technologies.<br><br>🚀 Tech Stack & Skills<br>Languages: JavaScript, Java, C,<br><br>Web Development: HTML5, CSS3, React.js, Node.js, Express.js, EJS, Bootstrap<br><br>Databases: MongoDB, MySQL<br><br>Tools & Platforms: Git, GitHub, Postman, VS Code, Linux<br><br>Other: Problem Solving, Data Structures & Algorithms, REST APIs<br><br>🌟 Projects That Reflect My Passion<br>🔑 Rent Your Apartment – A full-stack web for property listing and booking with login/signup, reviews, live chat, and MongoDB integration.<br><br>🎧 My Music Player – A feature-rich music player using Redux, React, and custom playlists.<br><br>📊 Air Quality Analysis – Data analytics project focused on air quality trends in Indian cities.<br><br>📌 What I'm Currently Working On<br>A Complete coding platform with real-time collaboration using WebSockets.<br><br><br>📫 Let's Connect!<br>I'm always open to learning, collaborating on projects, or contributing to open source. Feel free to connect with me:<br><br>LinkedIn: Sonu Kumar<br><br>📧 Email: 523410024@nitkkr.ac.in<br><br>☎️ Phone: (+91) 9534204141
 
-<img src="https://xianrise.com/assets/templates/basic/assets/images/login.gif"/>
+
 
 ## 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-6a7b86302/)  
