@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 💫Hi,👋<br><br>I'm Sonu Kumar<br>I'm a passionate Full Stack Developer and an MCA student at NIT Kurukshetra, with a strong foundation in Mathematics and a keen interest in building impactful and scalable web applications. I enjoy solving real-world problems through code and constantly pushing myself to learn new technologies. <br>
 <img src = "https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7597.jpg?w=740" alt = "image is loading"/>
 <br>
