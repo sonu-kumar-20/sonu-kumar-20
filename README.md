@@ -2,6 +2,10 @@
 💫Hi,👋<br>I'm Sonu Kumar<br>I'm a passionate Full Stack Developer and an MCA student at NIT Kurukshetra, with a strong foundation in Mathematics and a keen interest in building impactful and scalable web applications. I enjoy solving real-world problems through code and constantly pushing myself to learn new technologies. <br>
 <img src = "https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7597.jpg?w=740" alt = "image is loading"/>
 <br>
+## 🚀 Projects:
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23327FC7.svg?logo=react&logoColor=white)](https://sonukumarwebsite.netlify.app/)
+[![My Apartment](https://img.shields.io/badge/My%20Apartment-%23339933.svg?logo=node.js&logoColor=white)](https://myapartment.onrender.com/listings)
+[![My Music](https://img.shields.io/badge/My%20Music-%2361DAFB.svg?logo=react&logoColor=black)](https://my-music-sss.netlify.app/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100024470059597) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/My_Tution) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sonu-kumar-6a7b86302/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/TutionMy26576) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MyTution-Hindi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:523410024@nitkkr.ac.in) 
